@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-RecommenderApplication<recommender>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.hcmut.recommender.RecommenderApplication",
+            "projectName": "recommender",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
